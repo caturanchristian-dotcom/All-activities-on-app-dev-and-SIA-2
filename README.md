@@ -12,7 +12,7 @@ List and explanation of the activities included
 
     - “Exploring Emerging Technologies in the Real World”
     - title: "Cybersecurity"
-    - Short video presentation (3–5 minutes)
+    - Short video presentation (3 to 5 minutes)
 
 # AppDev activity 2
    # Description:

@@ -3,6 +3,7 @@ Course & Section: BSIT 3A
 Subject Name: APP DEV & SIA2
 
 Description of the repository: 
+    - This repository contains all compiled activities for both **Application Development** and **Systems Integration and Architecture 2 (SIA 2)**. 
 
 List and explanation of the activities included
 
@@ -57,7 +58,8 @@ List and explanation of the activities included
 
     - Title: student-dashboard
     - terminal: cd 'SIA activity 5' 
-        - run: php artisan serve
+        - terminal1 run: npm run dev
+        - terminal2 run: php artisan serve
 
     Email: admin@gmail.com
     password: admin123
